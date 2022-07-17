@@ -2,4 +2,13 @@ Instruction to deploy
 
 Cloud apps
 
+
+this commit is done in sample branch
+
+editing this in locally created Sample-branch
+
+
+date 17 JULY 22
 Created branch blue-sky locally
+
+fixed merge conflict
