@@ -2,6 +2,10 @@ Instruction to deploy
 
 Cloud apps
 
+
 this commit is done in sample branch
 
 editing this in locally created Sample-branch
+
+Created branch blue-sky locally
+
